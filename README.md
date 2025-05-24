@@ -56,7 +56,7 @@ crypto_sentiment_tracker/
 
 ---
 
-## ✨ Key Takeaway
+## Key Takeaway
 Even with a small window of sentiment data, directional shifts in public sentiment can align with short-term BTC price volatility. This shows potential for **news-based signal integration** in crypto analytics.
 
 ---
